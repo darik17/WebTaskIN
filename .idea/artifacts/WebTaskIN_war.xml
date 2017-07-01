@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebTaskIN:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebTaskIN.war">
+      <element id="artifact" artifact-name="WebTaskIN:war exploded" />
+    </root>
+  </artifact>
+</component>
